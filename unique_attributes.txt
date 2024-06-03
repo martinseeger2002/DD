@@ -1,0 +1,130 @@
+Background:
+  - Aqua
+  - Blue
+  - Green
+  - Pink
+  - Purple
+  - Red
+  - Rose
+  - Tan
+  - Yellow
+
+Fur Color:
+  - Beige
+  - Black
+  - Blue
+  - Bronze
+  - Brown
+  - Diamond
+  - Gold
+  - Gray
+  - Green
+  - Orange
+  - Pink
+  - Purple
+  - Rose Gold
+  - Silver
+  - Tan
+  - White
+  - Yellow
+
+Fur Pattern:
+  - Bernard
+  - Blotted
+  - Boxer
+  - Classic
+  - Collie
+  - Dalmatian
+  - Grey
+  - Husky
+  - Pug
+  - Sheppard
+  - Shiba
+  - Shiny
+  - Solid
+  - Split
+  - Spotted
+  - Tiger
+  - Zombie
+
+Head:
+  - Afro
+  - Army
+  - Bandana
+  - Bandit
+  - Beanie
+  - Bear
+  - Beret
+  - Big Ears
+  - Birthday
+  - Builder
+  - Captain
+  - Chef
+  - Cowboy
+  - Crown
+  - Dad Hat
+  - Firefighter
+  - Floppy Ears
+  - Gameday
+  - Helicopter
+  - Helmet
+  - Jester
+  - Painter
+  - Pirate
+  - Rasta
+  - Small Ears
+  - Snapback
+  - Sombrero
+  - Top Hat
+  - Tophat
+  - Trucker
+  - Wizard
+
+Clothes:
+  - Classic Hoodie
+  - Collar
+  - Gold Chain
+  - Lumberjack
+  - None
+  - Poncho
+  - Scarf
+  - Shirt
+  - Silver Chain
+  - Sport Hoodie
+  - Suit
+  - Suspenders
+  - Tracksuit
+  - Turtleneck
+
+Mouth:
+  - Ball
+  - Bone
+  - Chicken
+  - None
+  - Pizza
+  - Steak
+
+Eyes:
+  - Black
+  - Blue
+  - Eyepatch
+  - Green
+  - Mixed
+  - Monocle
+  - Pink
+  - Red
+  - Round Glasses
+  - Sleepy
+  - Square Glasses
+  - Sunglasses
+  - Visor
+  - Yellow
+
+Accessory:
+  - Bone
+  - Bow
+  - Flower Headband
+  - Gold Headband
+  - Mohawk
+  - None
+
